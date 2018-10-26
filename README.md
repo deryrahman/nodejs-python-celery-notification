@@ -28,8 +28,10 @@ docker-compose down
 ```
 
 ---
-Reference:
+References:
 
 [https://github.com/mattkohl/docker-flask-celery-redis](https://github.com/mattkohl/docker-flask-celery-redis)
+
 [https://matthewminer.com/2015/02/21/pattern-for-async-task-queue-results.html](https://matthewminer.com/2015/02/21/pattern-for-async-task-queue-results.html)
+
 [https://github.com/iamshaunjp/websockets-playlist](https://github.com/iamshaunjp/websockets-playlist)
